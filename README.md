@@ -27,7 +27,7 @@ Tenho conhecimentos técnicos nos sistemas operacionais <strong>Windows, Linux e
 </p>
 
 <p align="left">
-  <a href="fabriciomvieira@gmail.com" title="Gmail">
+  <a href="mailto:fabriciomvieira@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/fabricio-vieira/">
