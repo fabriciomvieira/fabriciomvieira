@@ -17,11 +17,11 @@ Tenho conhecimentos técnicos nos sistemas operacionais Windows, Linux e MAC OS,
 </p>
 
 <p align="left">
-  🦄 Linguagens: **HTML, CSS e JavaScript, ADVPL (linguagem de programação nativa do ERP TOTVS / Microsiga) e Java.**
+  🦄 Linguagens: <strong>HTML, CSS e JavaScript, ADVPL (linguagem de programação nativa do ERP TOTVS / Microsiga) e Java.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF)**
+  💼 Ferramentas: <strong>Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF)</strong>
 </p>
 
 <p align="left">
