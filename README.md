@@ -7,9 +7,9 @@ Atuo na área de <strong>Tecnologia da Informação</strong> (desenvolvimento de
 
 Atuo com <strong>gestão de pessoas</strong> e processos em projetos de software. <strong>Liderança de equipes</strong> de desenvolvedores e de suporte. <strong>Coordenação de projetos</strong> (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
 
-Tenho <strong>25 anos de experiência</strong> na área de desenvolvimento.
+Tenho <strong>25 anos de experiência</strong> na área de <strong>desenvolvimento</strong>.
 
-Tenho experiência em suporte técnico (atendimento presencial e remoto) para usuários.
+Tenho experiência em <strong>suporte técnico</strong> (atendimento presencial e remoto) para usuários.
 
 Tenho conhecimentos técnicos nos sistemas operacionais <strong>Windows, Linux e MAC OS, redes de computadores e hardware</strong>.
 </p>
