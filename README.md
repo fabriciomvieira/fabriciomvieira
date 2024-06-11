@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Atuo na área de <strong>Tecnologia da Informação (desenvolvimento de software back-end e front-end)</strong>.
+Atuo na área de <strong>Tecnologia da Informação</strong> (desenvolvimento de software <strong>back-end e front-end)</strong>.
 
 <strong>MBA em Gestão Estratégica de Empresas e Negócios e Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas.</strong>
 
@@ -11,7 +11,7 @@ Tenho <strong>25 anos de experiência na área de desenvolvimento</strong>.
 
 Tenho experiência em suporte técnico (atendimento presencial e remoto) para usuários.
 
-Tenho conhecimentos técnicos nos sistemas operacionais Windows, Linux e MAC OS, redes de computadores e hardware.
+Tenho conhecimentos técnicos nos sistemas operacionais <strong>Windows, Linux e MAC OS, redes de computadores e hardware</strong>.
 </p>
 
 <p align="left">
@@ -27,8 +27,9 @@ Tenho conhecimentos técnicos nos sistemas operacionais Windows, Linux e MAC OS,
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fabriciomvieira@gmail.com" alt="Gmail"/></a>
+  <a href="fabriciomvieira@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/fabricio-vieira/">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
