@@ -7,7 +7,7 @@ Possuo <strong>MBA em Gestão Estratégica de Empresas e Negócios</strong> e so
 
 Atuo com <strong>gestão de pessoas</strong> e processos em projetos de software. <strong>Liderança de equipes</strong> de desenvolvedores e de suporte. <strong>Coordenação de projetos</strong> (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
 
-Tenho <strong>25 anos de experiência</strong> na área de <strong>desenvolvimento</strong>, experiência em <strong>suporte técnico</strong> (atendimento presencial e remoto) para usuários.
+Tenho <strong>25 anos de experiência</strong> na área de <strong>desenvolvimento</strong> e em <strong>suporte técnico</strong> (atendimento presencial e remoto) para usuários.
 
 Possuo conhecimentos técnicos nos sistemas operacionais <strong>Windows, Linux e MAC OS, redes de computadores e hardware</strong>.
 </p>
