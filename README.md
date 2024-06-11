@@ -29,6 +29,7 @@ Tenho conhecimentos técnicos nos sistemas operacionais Windows, Linux e MAC OS,
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=fabriciomvieira@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-vieira/" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/fabricio-vieira/">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
