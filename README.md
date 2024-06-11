@@ -7,7 +7,7 @@ Atuo na área de <strong>Tecnologia da Informação</strong> (desenvolvimento de
 
 Atuo com <strong>gestão de pessoas</strong> e processos em projetos de software. <strong>Liderança de equipes</strong> de desenvolvedores e de suporte. <strong>Coordenação de projetos</strong> (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
 
-Tenho <strong>25 anos de experiência na área de desenvolvimento</strong>.
+Tenho <strong>25 anos de experiência</strong> na área de desenvolvimento.
 
 Tenho experiência em suporte técnico (atendimento presencial e remoto) para usuários.
 
@@ -19,7 +19,7 @@ Tenho conhecimentos técnicos nos sistemas operacionais <strong>Windows, Linux e
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Certificações Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF)</strong>
+  💼 Certificações: <strong>Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF)</strong>
 </p>
 
 <p align="left">
