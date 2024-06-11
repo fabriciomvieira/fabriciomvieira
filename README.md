@@ -1,15 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-Atuo na área de Tecnologia da Informação (desenvolvimento de software back-end e front-end).
+Atuo na área de <strong>Tecnologia da Informação (desenvolvimento de software back-end e front-end)</strong>.
 
-MBA em Gestão Estratégica de Empresas e Negócios e Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas.
+<strong>MBA em Gestão Estratégica de Empresas e Negócios e Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas.</strong>
 
-Atuo com gestão de pessoas e processos em projetos de software. Liderança de equipes de desenvolvedores e de suporte. Coordenação de projetos (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
+Atuo com <strong>gestão de pessoas</strong> e processos em projetos de software. <strong>Liderança de equipes</strong> de desenvolvedores e de suporte. <strong>Coordenação de projetos</strong> (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
 
-Tenho 25 anos de experiência na área de desenvolvimento, com conhecimentos em HTML, CSS e JavaScript, conhecimentos na linguagem ADVPL (linguagem de programação nativa do ERP TOTVS / Microsiga) e na linguagem Java.
-
-Possuo certificações em Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF).
+Tenho <strong>25 anos de experiência na área de desenvolvimento</strong>.
 
 Tenho experiência em suporte técnico (atendimento presencial e remoto) para usuários.
 
@@ -21,7 +19,7 @@ Tenho conhecimentos técnicos nos sistemas operacionais Windows, Linux e MAC OS,
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF)</strong>
+  💼 Ferramentas: <strong>Certificações Scrum Foundation Professional Certificate (SFPC) e Kanban Foundation Certification (KIKF)</strong>
 </p>
 
 <p align="left">
