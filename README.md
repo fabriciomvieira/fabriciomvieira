@@ -5,7 +5,7 @@ Atuo na área de <strong>Tecnologia da Informação</strong> (desenvolvimento de
 
 Possuo <strong>MBA em Gestão Estratégica de Empresas e Negócios</strong> e sou <strong>graduado em Tecnologia em Análise e Desenvolvimento de Sistemas.</strong>
 
-Atuo com <strong>gestão de pessoas</strong> e processos em projetos de software. <strong>Liderança de equipes</strong> de desenvolvedores e de suporte. <strong>Coordenação de projetos</strong> (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
+Atuo com <strong>gestão de pessoas</strong> e processos em projetos de software. <strong>Lidero equipes</strong> de desenvolvedores e de suporte, <strong>coordenando  projetos</strong> (TOTVS - ERP Protheus, ERP RM, Fluig e Gooddata).
 
 Tenho <strong>25 anos de experiência</strong> na área de <strong>desenvolvimento</strong> e em <strong>suporte técnico</strong> (atendimento presencial e remoto) para usuários.
 
